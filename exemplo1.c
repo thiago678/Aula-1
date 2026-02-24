@@ -1,12 +1,10 @@
-/ * Lab 1
-  * Exemplo 1 * /
 #include<stdio.h>
 
 int main(){
 printf("Mackenzie - FCI\n");
 printf("Algoritimos e\n");
-printf("Prog II\n");
+printf("Programação II\n");
 
-return 0
+return 0;
 }
 
